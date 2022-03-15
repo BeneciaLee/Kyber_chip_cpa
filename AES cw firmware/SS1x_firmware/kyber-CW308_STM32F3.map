@@ -1,0 +1,645 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+                              objdir/stm32f3_sysmem.o (__errno)
+c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                              c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                              c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                              c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                              c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 objdir/main.o
+ .data          0x00000000        0x0 objdir/main.o
+ .text          0x00000000        0x0 objdir/simpleserial.o
+ .data          0x00000000        0x0 objdir/simpleserial.o
+ .text.ss_crc   0x00000000       0x2a objdir/simpleserial.o
+ .text          0x00000000        0x0 objdir/stm32f3_hal.o
+ .data          0x00000000        0x0 objdir/stm32f3_hal.o
+ .text.change_err_led
+                0x00000000       0x18 objdir/stm32f3_hal.o
+ .text.change_ok_led
+                0x00000000       0x18 objdir/stm32f3_hal.o
+ .text          0x00000000        0x0 objdir/stm32f3_hal_lowlevel.o
+ .data          0x00000000        0x4 objdir/stm32f3_hal_lowlevel.o
+ .text.HAL_NVIC_SetPriority
+                0x00000000       0x64 objdir/stm32f3_hal_lowlevel.o
+ .text.HAL_InitTick
+                0x00000000        0xc objdir/stm32f3_hal_lowlevel.o
+ .text.HAL_IncTick
+                0x00000000        0x2 objdir/stm32f3_hal_lowlevel.o
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000        0x6 objdir/stm32f3_hal_lowlevel.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000        0x6 objdir/stm32f3_hal_lowlevel.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000        0x6 objdir/stm32f3_hal_lowlevel.o
+ .text          0x00000000        0x0 objdir/stm32f3_sysmem.o
+ .data          0x00000000        0x0 objdir/stm32f3_sysmem.o
+ .bss           0x00000000        0x4 objdir/stm32f3_sysmem.o
+ .text._sbrk    0x00000000       0x34 objdir/stm32f3_sysmem.o
+ .debug_info    0x00000000      0x119 objdir/stm32f3_sysmem.o
+ .debug_abbrev  0x00000000       0xe1 objdir/stm32f3_sysmem.o
+ .debug_loc     0x00000000       0x74 objdir/stm32f3_sysmem.o
+ .debug_aranges
+                0x00000000       0x20 objdir/stm32f3_sysmem.o
+ .debug_ranges  0x00000000       0x10 objdir/stm32f3_sysmem.o
+ .debug_line    0x00000000      0x137 objdir/stm32f3_sysmem.o
+ .debug_str     0x00000000      0x1f7 objdir/stm32f3_sysmem.o
+ .comment       0x00000000       0x4e objdir/stm32f3_sysmem.o
+ .debug_frame   0x00000000       0x28 objdir/stm32f3_sysmem.o
+ .ARM.attributes
+                0x00000000       0x2e objdir/stm32f3_sysmem.o
+ .text          0x00000000       0x14 objdir/stm32f3_startup.o
+ .data          0x00000000        0x0 objdir/stm32f3_startup.o
+ .bss           0x00000000        0x0 objdir/stm32f3_startup.o
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00003000         xrw
+ROM              0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD objdir/main.o
+LOAD objdir/simpleserial.o
+LOAD objdir/stm32f3_hal.o
+LOAD objdir/stm32f3_hal_lowlevel.o
+LOAD objdir/stm32f3_sysmem.o
+LOAD objdir/stm32f3_startup.o
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+START GROUP
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+                0x20003000                _estack = 0x20003000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 objdir/stm32f3_startup.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x12ac
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x40 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.text*)
+ .text.set_key  0x080001c8       0x44 objdir/main.o
+                0x080001c8                set_key
+ .text.check_key
+                0x0800020c       0x38 objdir/main.o
+                0x0800020c                check_key
+ .text.montgomery_reduce
+                0x08000244       0x1c objdir/main.o
+                0x08000244                montgomery_reduce
+ .text.basemul  0x08000260       0x50 objdir/main.o
+                0x08000260                basemul
+ .text.crypto_main
+                0x080002b0       0x54 objdir/main.o
+                0x080002b0                crypto_main
+ .text.startup.main
+                0x08000304       0x44 objdir/main.o
+                0x08000304                main
+ .text.check_version
+                0x08000348        0x4 objdir/simpleserial.o
+                0x08000348                check_version
+ .text.hex_decode
+                0x0800034c       0x78 objdir/simpleserial.o
+                0x0800034c                hex_decode
+ .text.simpleserial_addcmd_flags
+                0x080003c4       0x2c objdir/simpleserial.o
+                0x080003c4                simpleserial_addcmd_flags
+ .text.simpleserial_addcmd
+                0x080003f0        0x6 objdir/simpleserial.o
+                0x080003f0                simpleserial_addcmd
+ *fill*         0x080003f6        0x2 
+ .text.simpleserial_init
+                0x080003f8       0x2c objdir/simpleserial.o
+                0x080003f8                simpleserial_init
+ .text.simpleserial_put
+                0x08000424       0x40 objdir/simpleserial.o
+                0x08000424                simpleserial_put
+ .text.ss_num_commands
+                0x08000464       0x24 objdir/simpleserial.o
+                0x08000464                ss_num_commands
+ .text.ss_get_commands
+                0x08000488       0x50 objdir/simpleserial.o
+                0x08000488                ss_get_commands
+ .text.simpleserial_get
+                0x080004d8       0xc8 objdir/simpleserial.o
+                0x080004d8                simpleserial_get
+ .text.platform_init
+                0x080005a0       0x80 objdir/stm32f3_hal.o
+                0x080005a0                platform_init
+ .text.init_uart
+                0x08000620       0x7c objdir/stm32f3_hal.o
+                0x08000620                init_uart
+ .text.trigger_setup
+                0x0800069c       0x48 objdir/stm32f3_hal.o
+                0x0800069c                trigger_setup
+ .text.trigger_high
+                0x080006e4        0xe objdir/stm32f3_hal.o
+                0x080006e4                trigger_high
+ .text.trigger_low
+                0x080006f2        0xe objdir/stm32f3_hal.o
+                0x080006f2                trigger_low
+ .text.getch    0x08000700       0x34 objdir/stm32f3_hal.o
+                0x08000700                getch
+ .text.putch    0x08000734       0x20 objdir/stm32f3_hal.o
+                0x08000734                putch
+ .text.HAL_GetTick
+                0x08000754       0x10 objdir/stm32f3_hal_lowlevel.o
+                0x08000754                HAL_GetTick
+ .text.HAL_RCC_OscConfig
+                0x08000764      0x4d0 objdir/stm32f3_hal_lowlevel.o
+                0x08000764                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x08000c34      0x14c objdir/stm32f3_hal_lowlevel.o
+                0x08000c34                HAL_RCC_ClockConfig
+ .text.HAL_GPIO_Init
+                0x08000d80      0x188 objdir/stm32f3_hal_lowlevel.o
+                0x08000d80                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000f08        0xa objdir/stm32f3_hal_lowlevel.o
+                0x08000f08                HAL_GPIO_WritePin
+ *fill*         0x08000f12        0x2 
+ .text.UART_SetConfig
+                0x08000f14      0x1e0 objdir/stm32f3_hal_lowlevel.o
+                0x08000f14                UART_SetConfig
+ .text.UART_WaitOnFlagUntilTimeout
+                0x080010f4       0x58 objdir/stm32f3_hal_lowlevel.o
+                0x080010f4                UART_WaitOnFlagUntilTimeout
+ .text.UART_CheckIdleState
+                0x0800114c       0x64 objdir/stm32f3_hal_lowlevel.o
+                0x0800114c                UART_CheckIdleState
+ .text.HAL_UART_Init
+                0x080011b0       0x56 objdir/stm32f3_hal_lowlevel.o
+                0x080011b0                HAL_UART_Init
+ .text.HAL_UART_Transmit
+                0x08001206       0xac objdir/stm32f3_hal_lowlevel.o
+                0x08001206                HAL_UART_Transmit
+ .text.HAL_UART_Receive
+                0x080012b2       0xd6 objdir/stm32f3_hal_lowlevel.o
+                0x080012b2                HAL_UART_Receive
+ .text.Reset_Handler
+                0x08001388       0x48 objdir/stm32f3_startup.o
+                0x08001388                Reset_Handler
+ .text.Default_Handler
+                0x080013d0        0x2 objdir/stm32f3_startup.o
+                0x080013d0                DebugMon_Handler
+                0x080013d0                HardFault_Handler
+                0x080013d0                SysTick_Handler
+                0x080013d0                PendSV_Handler
+                0x080013d0                NMI_Handler
+                0x080013d0                UsageFault_Handler
+                0x080013d0                Default_Handler
+                0x080013d0                MemManage_Handler
+                0x080013d0                SVC_Handler
+                0x080013d0                BusFault_Handler
+ *fill*         0x080013d2        0x2 
+ .text.__libc_init_array
+                0x080013d4       0x48 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                0x080013d4                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x0800141c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800141c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0800141c        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0800141c        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                0x0800141c                _init
+ .init          0x08001420        0x8 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001428        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                0x08001428                _fini
+ .fini          0x0800142c        0x8 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+                0x08001434                . = ALIGN (0x4)
+                0x08001434                _etext = .
+
+.vfp11_veneer   0x08001434        0x0
+ .vfp11_veneer  0x08001434        0x0 linker stubs
+
+.v4_bx          0x08001434        0x0
+ .v4_bx         0x08001434        0x0 linker stubs
+
+.iplt           0x08001434        0x0
+ .iplt          0x08001434        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x08001434       0x14
+                0x08001434                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08001434       0x10 objdir/simpleserial.o
+ .rodata        0x08001444        0x3 objdir/stm32f3_hal_lowlevel.o
+ *(.rodata*)
+                0x08001448                . = ALIGN (0x4)
+ *fill*         0x08001447        0x1 
+
+.rel.dyn        0x08001448        0x0
+ .rel.iplt      0x08001448        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab      0x08001448        0x0
+                0x08001448                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08001448                . = ALIGN (0x4)
+
+.ARM            0x08001448        0x0
+                0x08001448                . = ALIGN (0x4)
+                0x08001448                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001448                __exidx_end = .
+                0x08001448                . = ALIGN (0x4)
+
+.preinit_array  0x08001448        0x0
+                0x08001448                . = ALIGN (0x4)
+                0x08001448                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001448                PROVIDE (__preinit_array_end = .)
+                0x08001448                . = ALIGN (0x4)
+
+.init_array     0x08001448        0x4
+                0x08001448                . = ALIGN (0x4)
+                0x08001448                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001448        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0800144c                PROVIDE (__init_array_end = .)
+                0x0800144c                . = ALIGN (0x4)
+
+.fini_array     0x0800144c        0x4
+                0x0800144c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800144c        0x4 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08001450                . = ALIGN (0x4)
+                0x08001450                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x08001450
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _edata = .
+
+.igot.plt       0x20000000        0x0 load address 0x08001450
+ .igot.plt      0x20000000        0x0 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                . = ALIGN (0x4)
+
+.bss            0x20000000      0x19c load address 0x08001450
+                0x20000000                _sbss = .
+                0x20000000                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000000       0x1c c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x2000001c        0x4 objdir/main.o
+                0x2000001c                a
+ .bss           0x20000020      0x104 objdir/simpleserial.o
+ .bss           0x20000124       0x70 objdir/stm32f3_hal.o
+                0x20000124                UartHandle
+ .bss           0x20000194        0x8 objdir/stm32f3_hal_lowlevel.o
+                0x20000194                hal_sys_tick
+                0x20000198                uwTick
+ *(.bss*)
+ *(COMMON)
+                0x2000019c                . = ALIGN (0x4)
+                0x2000019c                _ebss = .
+                0x2000019c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000019c      0x404 load address 0x08001450
+                0x200001a0                . = ALIGN (0x8)
+ *fill*         0x2000019c        0x4 
+                0x200001a0                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200001a0                . = (. + _Min_Heap_Size)
+                0x200005a0                . = (. + _Min_Stack_Size)
+ *fill*         0x200001a0      0x400 
+                0x200005a0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e objdir/main.o
+ .ARM.attributes
+                0x0000007a       0x2e objdir/simpleserial.o
+ .ARM.attributes
+                0x000000a8       0x2e objdir/stm32f3_hal.o
+ .ARM.attributes
+                0x000000d6       0x2e objdir/stm32f3_hal_lowlevel.o
+ .ARM.attributes
+                0x00000104       0x21 objdir/stm32f3_startup.o
+ .ARM.attributes
+                0x00000125       0x2e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000153       0x1e c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(kyber-CW308_STM32F3.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0x41fd
+ .debug_info    0x00000000      0x616 objdir/main.o
+ .debug_info    0x00000616      0x7a0 objdir/simpleserial.o
+ .debug_info    0x00000db6      0xe88 objdir/stm32f3_hal.o
+ .debug_info    0x00001c3e     0x25bf objdir/stm32f3_hal_lowlevel.o
+
+.debug_abbrev   0x00000000      0xb4f
+ .debug_abbrev  0x00000000      0x1ee objdir/main.o
+ .debug_abbrev  0x000001ee      0x28d objdir/simpleserial.o
+ .debug_abbrev  0x0000047b      0x225 objdir/stm32f3_hal.o
+ .debug_abbrev  0x000006a0      0x4af objdir/stm32f3_hal_lowlevel.o
+
+.debug_loc      0x00000000     0x219b
+ .debug_loc     0x00000000      0x378 objdir/main.o
+ .debug_loc     0x00000378      0x60e objdir/simpleserial.o
+ .debug_loc     0x00000986      0x1a4 objdir/stm32f3_hal.o
+ .debug_loc     0x00000b2a     0x1671 objdir/stm32f3_hal_lowlevel.o
+
+.debug_aranges  0x00000000      0x1a0
+ .debug_aranges
+                0x00000000       0x48 objdir/main.o
+ .debug_aranges
+                0x00000048       0x68 objdir/simpleserial.o
+ .debug_aranges
+                0x000000b0       0x60 objdir/stm32f3_hal.o
+ .debug_aranges
+                0x00000110       0x90 objdir/stm32f3_hal_lowlevel.o
+
+.debug_ranges   0x00000000      0x480
+ .debug_ranges  0x00000000       0xd0 objdir/main.o
+ .debug_ranges  0x000000d0      0x100 objdir/simpleserial.o
+ .debug_ranges  0x000001d0       0xb0 objdir/stm32f3_hal.o
+ .debug_ranges  0x00000280      0x200 objdir/stm32f3_hal_lowlevel.o
+
+.debug_line     0x00000000     0x2565
+ .debug_line    0x00000000      0x3b7 objdir/main.o
+ .debug_line    0x000003b7      0x606 objdir/simpleserial.o
+ .debug_line    0x000009bd      0x425 objdir/stm32f3_hal.o
+ .debug_line    0x00000de2     0x1783 objdir/stm32f3_hal_lowlevel.o
+
+.debug_str      0x00000000     0x130a
+ .debug_str     0x00000000      0x265 objdir/main.o
+                                0x2c7 (size before relaxing)
+ .debug_str     0x00000265       0xeb objdir/simpleserial.o
+                                0x2f5 (size before relaxing)
+ .debug_str     0x00000350      0x700 objdir/stm32f3_hal.o
+                                0x939 (size before relaxing)
+ .debug_str     0x00000a50      0x8ba objdir/stm32f3_hal_lowlevel.o
+                               0x119e (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d objdir/main.o
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e objdir/simpleserial.o
+ .comment       0x0000004d       0x4e objdir/stm32f3_hal.o
+ .comment       0x0000004d       0x4e objdir/stm32f3_hal_lowlevel.o
+
+.debug_frame    0x00000000      0x4c0
+ .debug_frame   0x00000000       0xa8 objdir/main.o
+ .debug_frame   0x000000a8      0x12c objdir/simpleserial.o
+ .debug_frame   0x000001d4       0xec objdir/stm32f3_hal.o
+ .debug_frame   0x000002c0      0x1d4 objdir/stm32f3_hal_lowlevel.o
+ .debug_frame   0x00000494       0x2c c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+
+.stab           0x00000000      0x144
+ .stab          0x00000000      0x144 objdir/stm32f3_startup.o
+
+.stabstr        0x00000000       0x54
+ .stabstr       0x00000000       0x54 objdir/stm32f3_startup.o
+
+Cross Reference Table
+
+Symbol                                            File
+BusFault_Handler                                  objdir/stm32f3_startup.o
+DebugMon_Handler                                  objdir/stm32f3_startup.o
+Default_Handler                                   objdir/stm32f3_startup.o
+HAL_GPIO_Init                                     objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HAL_GPIO_WritePin                                 objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HAL_GetTick                                       objdir/stm32f3_hal_lowlevel.o
+HAL_IncTick                                       objdir/stm32f3_hal_lowlevel.o
+HAL_InitTick                                      objdir/stm32f3_hal_lowlevel.o
+HAL_NVIC_SetPriority                              objdir/stm32f3_hal_lowlevel.o
+HAL_RCC_ClockConfig                               objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HAL_RCC_GetPCLK1Freq                              objdir/stm32f3_hal_lowlevel.o
+HAL_RCC_GetPCLK2Freq                              objdir/stm32f3_hal_lowlevel.o
+HAL_RCC_GetSysClockFreq                           objdir/stm32f3_hal_lowlevel.o
+HAL_RCC_OscConfig                                 objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HAL_UART_Init                                     objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HAL_UART_Receive                                  objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HAL_UART_Transmit                                 objdir/stm32f3_hal_lowlevel.o
+                                                  objdir/stm32f3_hal.o
+HardFault_Handler                                 objdir/stm32f3_startup.o
+MemManage_Handler                                 objdir/stm32f3_startup.o
+NMI_Handler                                       objdir/stm32f3_startup.o
+PendSV_Handler                                    objdir/stm32f3_startup.o
+Reset_Handler                                     objdir/stm32f3_startup.o
+SVC_Handler                                       objdir/stm32f3_startup.o
+SysTick_Handler                                   objdir/stm32f3_startup.o
+SystemCoreClock                                   objdir/stm32f3_hal_lowlevel.o
+SystemInit                                        objdir/stm32f3_startup.o
+UART_CheckIdleState                               objdir/stm32f3_hal_lowlevel.o
+UART_SetConfig                                    objdir/stm32f3_hal_lowlevel.o
+UART_WaitOnFlagUntilTimeout                       objdir/stm32f3_hal_lowlevel.o
+UartHandle                                        objdir/stm32f3_hal.o
+UsageFault_Handler                                objdir/stm32f3_startup.o
+__bss_end__                                       c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__bss_start__                                     c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__call_exitprocs                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+__deregister_frame_info                           c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+__dso_handle                                      c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+__errno                                           c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+                                                  objdir/stm32f3_sysmem.o
+__init_array_end                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__init_array_start                                c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__libc_init_array                                 c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                                                  objdir/stm32f3_startup.o
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__preinit_array_end                               c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__register_frame_info                             c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+__sf_fake_stderr                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+__stack                                           c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+_ebss                                             objdir/stm32f3_startup.o
+_edata                                            objdir/stm32f3_startup.o
+_estack                                           objdir/stm32f3_startup.o
+_exit                                             c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+_fini                                             c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+_global_impure_ptr                                c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+_init                                             c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+_sbrk                                             objdir/stm32f3_sysmem.o
+_sbss                                             objdir/stm32f3_startup.o
+_sdata                                            objdir/stm32f3_startup.o
+_sidata                                           objdir/stm32f3_startup.o
+_stack_init                                       c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+_start                                            c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+a                                                 objdir/main.o
+atexit                                            c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+basemul                                           objdir/main.o
+change_err_led                                    objdir/stm32f3_hal.o
+change_ok_led                                     objdir/stm32f3_hal.o
+check_key                                         objdir/main.o
+check_version                                     objdir/simpleserial.o
+crypto_main                                       objdir/main.o
+end                                               objdir/stm32f3_sysmem.o
+exit                                              c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+g_pfnVectors                                      objdir/stm32f3_startup.o
+getch                                             objdir/stm32f3_hal.o
+                                                  objdir/simpleserial.o
+hal_sys_tick                                      objdir/stm32f3_hal_lowlevel.o
+hardware_init_hook                                c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+hex_decode                                        objdir/simpleserial.o
+init_uart                                         objdir/stm32f3_hal.o
+                                                  objdir/main.o
+main                                              objdir/main.o
+                                                  objdir/stm32f3_startup.o
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+memset                                            c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                                                  c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+montgomery_reduce                                 objdir/main.o
+platform_init                                     objdir/stm32f3_hal.o
+                                                  objdir/main.o
+putch                                             objdir/stm32f3_hal.o
+                                                  objdir/simpleserial.o
+set_key                                           objdir/main.o
+simpleserial_addcmd                               objdir/simpleserial.o
+                                                  objdir/main.o
+simpleserial_addcmd_flags                         objdir/simpleserial.o
+simpleserial_get                                  objdir/simpleserial.o
+                                                  objdir/main.o
+simpleserial_init                                 objdir/simpleserial.o
+                                                  objdir/main.o
+simpleserial_put                                  objdir/simpleserial.o
+                                                  objdir/main.o
+software_init_hook                                c:/users/lee/chipwhisperer5_64/cw/home/portable/armgcc/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ss_crc                                            objdir/simpleserial.o
+ss_get_commands                                   objdir/simpleserial.o
+ss_num_commands                                   objdir/simpleserial.o
+trigger_high                                      objdir/stm32f3_hal.o
+                                                  objdir/main.o
+trigger_low                                       objdir/stm32f3_hal.o
+                                                  objdir/main.o
+trigger_setup                                     objdir/stm32f3_hal.o
+                                                  objdir/main.o
+uwTick                                            objdir/stm32f3_hal_lowlevel.o

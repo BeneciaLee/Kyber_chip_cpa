@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/AES_cw_firmware__2_.dir/main.c.o  -o AES_cw_firmware__2_ 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/kem.h
+stdint.h
+-
+params.h
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/params.h
+
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/params.h
+
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/randombytes.h
+stddef.h
+-
+stdint.h
+-
+
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/test_kyber.c
+stddef.h
+-
+stdio.h
+-
+string.h
+-
+kem.h
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/kem.h
+randombytes.h
+/mnt/c/Users/Lee/Desktop/Kyber/test_kyber2/randombytes.h
+
